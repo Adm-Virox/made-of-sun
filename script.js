@@ -1081,18 +1081,6 @@ if (checkoutButton) {
 
 // ======================================================  NEWSLETTER  ======================================================
 
-if (newsletterForm) {
-
-    newsletterForm.addEventListener("submit", function (event) {
-
-            event.preventDefault();
-
-            alert("Cadastro realizado com sucesso! 💕");
-
-            newsletterForm.reset();
-        }
-    );
-}
 
 // ======================================================  MENU MOBILE  ======================================================
 
