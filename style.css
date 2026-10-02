@@ -665,6 +665,11 @@ h2 {
     gap: 50px;
     padding: 70px 0;
 }
+.footer-brand{
+    text-align: center;
+    margin-left: 1s0px;
+}
+
 
 .footer-brand p {
     color: #b9aea7;
