@@ -170,6 +170,8 @@ const checkoutButton = document.getElementById("checkoutButton");
 const menuButton = document.getElementById("menuButton");
 const nav = document.getElementById("nav");
 const loadMoreProducts = document.getElementById("loadMoreProducts");
+const whatsappInput = document.querySelector('input[name="whatsapp"]');
+whatsappInput.addEventListener("input", function () {this.value = this.value.replace(/\D/g, "");});
 
 // ====================================================== CRIAR MODAL DE TAMANHO ======================================================
 
