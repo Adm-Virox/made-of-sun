@@ -169,7 +169,6 @@ const closeCartButton = document.getElementById("closeCart");
 const checkoutButton = document.getElementById("checkoutButton");
 const menuButton = document.getElementById("menuButton");
 const nav = document.getElementById("nav");
-const newsletterForm = document.getElementById("newsletterForm");
 const loadMoreProducts = document.getElementById("loadMoreProducts");
 
 // ====================================================== CRIAR MODAL DE TAMANHO ======================================================
